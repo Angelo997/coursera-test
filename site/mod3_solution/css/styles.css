@@ -1,0 +1,38 @@
+	.item_menu{
+		background-color: #403d39; 
+	}
+	.menu-section {
+		margin-top: 20px;
+		background-color: #403d39;
+		padding: 0 10px 10px 10px;
+	}
+
+	.menu-desc{
+		color: #fff;
+	}
+	
+	.menu-title{
+		padding-top: 10px;
+		color: #fff;
+		font-size: 20px;
+	}
+
+	.navbar.navbar-default{
+		background-color: #403d39;
+	}
+	.navbar-default .navbar-brand{
+		color: #fff;
+	}
+
+@media (max-width:767px){
+
+	.navbar-collapse.collapse.in{
+		background-color: #403d39; 
+	}
+
+	ul.nav.navbar-nav li a{
+		color: #fff;
+	}
+
+}
+
